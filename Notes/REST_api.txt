@@ -1,0 +1,2 @@
+REST API = Front end + json based structured data flow + Backend 
+REST is the pattern used to design APIs
