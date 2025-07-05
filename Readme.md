@@ -1,14 +1,14 @@
-# Mis_imp Project 🚀
+#Full stack journey
 
 Welcome to **Mis_imp** – this is a sample project to test Git and GitHub workflows.
 
-## 📂 Features
+## Features
 
 - Simple examples for practicing Git commands.
 - Demonstrates branching and merging.
 - Includes this README file with Markdown formatting.
 
-## 📦 Installation
+## Installation
 
 Clone the repo:
 
